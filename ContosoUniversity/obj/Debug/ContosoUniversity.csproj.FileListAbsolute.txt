@@ -63,3 +63,4 @@ D:\Profesional\MyProject\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json
 D:\Profesional\MyProject\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
 D:\Profesional\MyProject\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 D:\Profesional\MyProject\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+D:\Profesional\MyProject\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
